@@ -65,17 +65,19 @@ Lista de exercícios
 
 <a href="https://luizotaviopdev.github.io/html-css/exercícios/021/caixa03.html"> Executar exercício 021c</a >
 
-<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo001.html"> Executar exercício 022a</a >
+<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo001.html"> Executar exercício 022</a >
 
-<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo002.html"> Executar exercício 022b</a >
+<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo002.html"> Executar exercício 022a</a >
 
-<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo003.html"> Executar exercício 022c</a >
+<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo003.html"> Executar exercício 022b</a >
 
-<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo004.html"> Executar exercício 022d</a >
+<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo004.html"> Executar exercício 022c</a >
 
-<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo005.html"> Executar exercício 022e</a >
+<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo005.html"> Executar exercício 022d</a >
 
-<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo006.html"> Executar exercício 022f</a >
+<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo006.html"> Executar exercício 022e</a>
+
+<a href="https://luizotaviopdev.github.io/html-css/exercícios/022/fundo007.html"> Executar exercício 022f</a>
 
 Lista dos desafios
 
@@ -100,5 +102,9 @@ Lista dos desafios
 <a href="https://luizotaviopdev.github.io/html-css/desafios/d010/desafioantes.html"> Executar desafio 010 antes de ver a  resposta</a >
 
 <a href="https://luizotaviopdev.github.io/html-css/desafios/d010/desafio.html"> Executar desafio 010 depois da resposta</a >
+
+<a href="https://luizotaviopdev.github.io/html-css/desafios/d011/index.html"> Executar desafio 011</a >
+
+<a href="https://luizotaviopdev.github.io/html-css/desafios/d012/index.html"> Executar desafio 012 antes de ver a resposta</a >
 
 Fim!
