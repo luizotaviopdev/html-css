@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* 
+Paleta de cores:
+Verde Escuro: #2E4A2F
+Verde Médio: #4A7C59
+Bege Dourado: #D7B89F
+Rosa Suave: #E8C4B8
+Dourado: #CDA434
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.8em;
+}
+
+html {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to bottom, #2E4A2F, #568063, #a8b8a6, #D7B89F) no-repeat;
+}
+
+main {
+    background: white;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 13px;
+    width: 280px;
+    height: 520px;
+    transition: width 0.3s, height 0.3s;
+    transition-timing-function: ease;
+}
+
+div#img {
+    width: 280px;
+    height: 195px;
+    background: url(../imagens/pexels-zeus-\ pqn31359948.jpg) center center / 100% no-repeat;
+    border-radius: 13px 13px 0 0;
+}
+
+div#forms h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+div#forms p {
+    font-size: 14px;
+    padding: 0 12px 4px;
+    text-align: justify;
+}
+
+div#forms form div#campo {
+    background: #4A7C59;
+    height: 24px;
+    width: 248px;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 18px;
+}
+
+div#forms form span {
+    font-size: 24px;
+    color: white;
+}
+
+div#forms form input#campos {
+    width: 216.8px;
+    height: 32px;
+    font-size: 10px;
+    transform: translateY(-8.5px) translateX(6.4px);
+    border: transparent;
+    border-radius: 0px 10px 10px 0px;
+    text-indent: 8px;
+}
+
+div#forms form input#submit {
+    background: #E8C4B8;
+    margin: 3.2px 4.16px 0;
+    font-size: 17px;
+    width: 272px;
+    height: 40px;
+    border-radius: 9px;
+    border: 0.8px solid black;
+    cursor: pointer;
+    text-align: center;
+}
+
+div#forms form input#submit:hover { 
+    background: #b1958b;
+}
+
+div#forms form button#pass {
+    background: #f0f0f0;
+    margin: 4.8px 4.16px;
+    font-size: 17px;
+    width: 272px;
+    height: 40px;
+    border-radius: 9px;
+    border: 0.8px solid black;
+    cursor: pointer;
+}
+
+div#forms form button#pass:hover {
+    background: #a0a0a0;
+}

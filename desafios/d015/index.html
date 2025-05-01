@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Tela de Login</title>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+    <link rel="stylesheet" href="estilos/style.css">
+    <link rel="stylesheet" href="estilos/mediaqueries.css">
+</head>
+
+<body>
+    <main>
+        <div id="img"></div>
+
+        <div id="forms">
+
+            <h1>Login</h1>
+            <p>Seja bem-vindo(a) novamente. Faça login para acessar sua conta e poder fazer as configurações no seu
+                ambiente.</p>
+
+            <form action="registro.php" method="get" autocomplete="yes">
+
+                <div id="campo">
+                    <span class="material-symbols-outlined">person</span>
+                    <input id="campos" type="email" name="email" id="iemail" placeholder="E-MAIL">
+                </div>
+                <div id="campo">
+                    <span class="material-symbols-outlined">key</span>
+                    <input id="campos" type="password" name="senha" id="isenha" placeholder="SENHA">
+                </div>
+
+                <input id="submit" type="submit" value="Entrar">
+                <button id="pass" type="submit">
+                    Esqueci a senha <span style="font-size: 20px; transform: translateY(4px);" class="material-symbols-outlined">mail</span>
+                </button>
+
+            </form>
+        </div>
+
+    </main>
+</body>
+
+</html>

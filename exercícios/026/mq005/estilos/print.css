@@ -1,0 +1,12 @@
+header {
+    display: none;
+}
+
+main h1 {
+    font-size: 26px;
+}
+
+main::after {
+    content: 'Essa copia foi impressa no Site https://luizotaviopdev.github.io/html-css/';
+    font-size: 20px;
+}
